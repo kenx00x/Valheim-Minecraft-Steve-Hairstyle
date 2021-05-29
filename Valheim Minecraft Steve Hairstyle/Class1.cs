@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace Valheim_Minecraft_Steve_Hairstyle
 {
-    [BepInPlugin("kenx00x.MinecraftSteveHairstyle", "Minecraft Steve Hairstyle", "1.0.0")]
+    [BepInPlugin("kenx00x.MinecraftSteveHairstyle", "Minecraft Steve Hairstyle", "1.0.1")]
     [BepInProcess("valheim.exe")]
     public class MinecraftSteveHairstyle : BaseUnityPlugin
     {
